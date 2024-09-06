@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bil3al
-- 👀 I’m interested in cybersécurité && machine learning
-- 🌱 I’m currently learning software engineer
+- 👋 Hi, I’m @Bil3l
+- 👀 I’m interested in data science && machine learning
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
