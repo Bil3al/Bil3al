@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bil3l
-- 👀 I’m interested in data science && machine learning
+- 👀 I’m interested in data science && software engineer
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
