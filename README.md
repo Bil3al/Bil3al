@@ -11,9 +11,8 @@
 <br/><br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VOTRE_PROFIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23a78bfa.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://votre-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-malih-b0b81822b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malihbilal32@gmail.com)
 
 </div>
 
@@ -25,7 +24,7 @@
 @Component
 public class Developer {
 
-    private final String name      = "Votre Nom";
+    private final String name      = "Bilal Malih";
     private final String role      = "Full Stack Engineer & AI Architect";
     private final String location  = "🇲🇦 Maroc";
 
@@ -104,12 +103,12 @@ public class Developer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bil3al&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bil3al&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bil3al&theme=midnight-purple&hide_border=true&background=0d1117" />
 </div>
 
 ---
@@ -132,7 +131,7 @@ public class Developer {
 ## 📈 Activité
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bil3al&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
 </div>
 
 ---
@@ -153,6 +152,6 @@ public class Developer {
 
 **💜 Merci de visiter mon profil — collaborons sur quelque chose d'intelligent !**
 
-![Profile Views](https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=a78bfa&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Bil3al&color=a78bfa&style=for-the-badge)
 
 </div>
