@@ -1,175 +1,161 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AI%20%7C%20%Software%20%EEngineer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20RAG&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Bilal Malih — Élève ingénieur ENSIAS, développement full stack et IA. À la recherche d’un stage PFE." />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+full-stack+apps;Spring+Boot+%2B+React+%3D+%E2%9D%A4%EF%B8%8F;Generative+AI+%7C+RAG+%7C+LLM+Engineer;Turning+ideas+into+production+systems" alt="Typing SVG" />
-</a>
+<br />
 
-<br/><br/>
+[**GITHUB ↗**](https://github.com/Bil3al) &nbsp; / &nbsp; [**LINKEDIN ↗**](https://www.linkedin.com/in/bilal-malih) &nbsp; / &nbsp; [**PROPOSER UN STAGE PFE ↗**](mailto:malihbilal32@gmail.com)
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-malih)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malihbilal32@gmail.com)
+**Spring Boot · React · Agentic AI · RAG · Kubernetes**
 
 </div>
 
----
+## À propos / Du code aux systèmes utiles
 
-## 🧠 À propos de moi
+Je suis **Bilal Malih**, élève ingénieur en **génie logiciel et sciences des données à l’ENSIAS**, au Maroc. J’aime concevoir des applications robustes, fiables et évolutives, du backend à l’interface, et y intégrer une IA qui répond à des besoins concrets.
 
-```java
-@Component
-public class Developer {
+Mes projets relient **développement full stack, systèmes multi-agents et recherche augmentée** : diagnostiquer des incidents Kubernetes, vérifier des assertions scientifiques ou faciliter la collaboration entre développeurs. Mes expériences m’ont aussi amené à travailler sur la computer vision pour la santé et l’automatisation de workflows.
 
-    private final String name      = "Bilal Malih";
-    private final String role      = "Full Stack Engineer & AI Architect";
-    private final String location  = "🇲🇦 Maroc";
+**Je recherche un stage PFE** pour contribuer en équipe à des projets à fort impact en génie logiciel et IA appliquée. [Échangeons par email ↗](mailto:malihbilal32@gmail.com)
 
-    private final String[] passions = {
-        "Construire des APIs robustes avec Spring Boot",
-        "Créer des UIs réactives avec React",
-        "Intégrer des LLMs et systèmes RAG en production",
-        "Transformer des problèmes complexes en solutions élégantes"
-    };
-
-    public String getCurrentFocus() {
-        return "Systèmes multi-agents · RAG avancé · Agentic AI";
-    }
-}
+```yaml
+bilal:
+  formation: ENSIAS · Génie logiciel & sciences des données
+  approche: comprendre le besoin → concevoir → construire → valider
+  focus: [full stack, RAG agentique, systèmes multi-agents, observabilité]
+  principes: [SOLID, architecture claire, travail en équipe]
 ```
 
+## 01 / La stack en pratique
+
+<img src="./assets/stack.svg" width="100%" alt="Java 21, Spring Boot, FastAPI, React, TypeScript, LangGraph, Ollama, bases relationnelles et vectorielles, Kubernetes et outils d’ingénierie." />
+
+<details>
+<summary><strong>Explorer les technologies et les concepts</strong></summary>
+
+<br />
+
+| Domaine | Technologies & concepts |
+| :--- | :--- |
+| **Langages** | Java · Python · JavaScript · TypeScript · SQL · HTML · CSS |
+| **Backend & architecture** | Spring Boot · Spring Security · FastAPI · REST APIs · gRPC · microservices · RBAC |
+| **Frontend** | React · WebSocket · interfaces temps réel · PWA |
+| **IA & recherche** | LangGraph · Ollama · RAG · recherche hybride BM25 + vectorielle · reranking · DeBERTa-v3 · agents IA |
+| **Machine learning** | Machine learning · deep learning · computer vision · détection de posture par NLI |
+| **Données** | PostgreSQL · MySQL · MongoDB · Redis · Neo4j · Qdrant · ChromaDB |
+| **Plateforme & observabilité** | Docker · Kubernetes · Helm · Trivy · Prometheus · Loki · Jenkins · CI/CD |
+| **Pratiques & outils** | POO · SOLID · design patterns · JUnit · Git · GitHub · Jira · Agile |
+
+</details>
+
+## 02 / Projets sélectionnés
+
+### InfraSentinel / Diagnostiquer les incidents Kubernetes
+
+**AGENTIC AI × PLATFORM ENGINEERING · 2026**
+
+Un agent IA qui corrèle **métriques Prometheus et logs Loki** pour diagnostiquer les incidents Kubernetes. La remédiation est assistée et soumise à une **validation humaine**.
+
+L’architecture relie des microservices **Spring Boot et FastAPI par gRPC**, un dashboard React en temps réel et un pipeline CI/CD sécurisé sous Kubernetes avec Helm et Trivy.
+
+`LangGraph` `RAG` `Qdrant` `Kubernetes` `Spring Boot` `FastAPI` `gRPC` `React`
+
 ---
 
-## 🛠️ Stack Technique
+### SciCheck AI / Vérifier les assertions scientifiques
+
+**MULTI-AGENT SYSTEM × SCIENTIFIC RETRIEVAL · 2026**
+
+Une plateforme de **RAG agentique entièrement locale**, qui vérifie des assertions à partir d’articles arXiv en informatique. Elle combine boucle active de recherche, **recherche hybride BM25 + ChromaDB + reranker**, détection de posture avec DeBERTa NLI et validation stricte des citations.
+
+`Python` `LangGraph` `Ollama` `ChromaDB` `DeBERTa-v3` `FastAPI`
+
+<img src="./assets/intelligence.svg" width="100%" alt="SciCheck AI : articles arXiv, recherche hybride, agents locaux LangGraph et Ollama, détection de posture et validation des citations." />
+
+### Plateforme collaborative / Apprendre et construire ensemble
+
+**FULL STACK × DEVELOPER COMMUNITY · 2026**
+
+Une plateforme d’entraide technique avec **questions-réponses, votes et tags**, challenges de programmation, job board et espace de partage de connaissances.
+
+`Spring Boot` `React` `TypeScript` `PostgreSQL` `REST API`
 
 <div align="center">
 
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🤖 Intelligence Artificielle
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🧬 Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🗄️ Bases de données & Vectorielles
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Chroma](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 📊 Monitoring & Observabilité
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+[**EXPLORER MES REPOSITORIES ↗**](https://github.com/Bil3al?tab=repositories)
 
 </div>
 
----
+## 03 / Expériences de terrain
 
-## 🤖 Expertise IA & RAG
+### MEDCONNECT / IA & computer vision pour la santé
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                   MES SPÉCIALITÉS IA                            │
-├──────────────────────┬──────────────────────────────────────────┤
-│  🔍 RAG Systems      │  Chunking · Embeddings · Reranking       │
-│  🧩 LLM Integration  │  OpenAI · Mistral · LLaMA · Gemini       │
-│  🕵️ AI Agents        │  LangGraph · CrewAI · AutoGen            │
-│  📄 Doc AI           │  PDF/Word parsing · Semantic search       │
-│  💬 Chatbots         │  Context-aware · Streaming · Memory       │
-│  🔗 Spring AI        │  RAG natif · Embeddings · VectorStore     │
-│  🧠 Machine Learning  │  Supervised · Unsupervised · XGBoost      │
-│  🔬 Deep Learning    │  CNN · RNN · Transformers · Fine-tuning   │
-│  👁️ Computer Vision  │  OpenCV · YOLO · Image Classification     │
-│  🎮 Renforcement RL  │  Q-Learning · PPO · DQN · Gym            │
-└──────────────────────┴──────────────────────────────────────────┘
-```
+**Juillet – septembre 2026**
 
----
+Solution IA de triage pour une clinique dentaire : capture d’images, analyse en temps réel et score d’urgence clinique. Tri de la file d’attente, alertes praticien pour les cas critiques et mise en cache des analyses pour un fonctionnement hors ligne.
 
-## 📊 GitHub Stats
+`Deep learning` `Computer vision` `DICOM` `JSON` `PWA`
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bil3al&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bil3al&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
-</div>
+### Enhanced Technologies / Gestion de projets augmentée
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bil3al&theme=midnight-purple&hide_border=true&background=0d1117" />
-</div>
+**Juin – août 2025**
 
----
+Plateforme de gestion de projets et d’équipes : tâches, Kanban interactif, contrôle d’accès RBAC et notifications WebSocket. Moteur d’automatisation de workflows et assistant IA pour générer des tâches, analyser les risques et suivre les projets.
 
-## 🚀 Projets Phares
+`Java 21` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Redis` `Docker`
 
-<div align="center">
+## 04 / Au-delà du code
 
-| 🏆 Projet | 🛠️ Stack | 📝 Description |
-|-----------|----------|---------------|
-| **RAG Assistant** | Spring AI · React · Chroma | Chatbot intelligent sur documents PDF avec mémoire conversationnelle |
-| **API Gateway IA** | Spring Boot · OpenAI · Redis | Gateway de rate-limiting et routage intelligent pour LLMs |
-| **AI Dashboard** | React · TypeScript · Recharts | Tableau de bord temps réel pour monitoring de modèles IA |
-| **Multi-Agent System** | LangGraph · FastAPI · React | Système d'agents autonomes pour automatisation de workflows |
+<img src="./assets/highlights.svg" width="100%" alt="Major de promotion, premier sur plus de 250 étudiants en licence ; deuxième au hackathon D.A.T.A à l’INPT ; organisation de plus de dix événements avec l’ENSIAS IT Club." />
 
-</div>
+- **Major de promotion**, 1er sur plus de 250 étudiants en licence sciences mathématiques et informatique.
+- **2ᵉ place au hackathon D.A.T.A**, Data & AI Talents Assembly à l’INPT, en computer vision appliquée à la santé.
+- **Membre de l’ENSIAS IT Club**, participation à l’organisation de plus de 10 événements : hackathons, conférences et formations.
+- **Certifications** : Oracle Certified Associate Java SE 8 ; The Machine Learning Process A-Z — 365 Data Science.
 
----
+### Parcours & langues
 
-## 📈 Activité
+| Formation | Période |
+| :--- | :--- |
+| **ENSIAS** — Cursus du diplôme d’ingénieur d’État en génie logiciel et sciences des données | Depuis 2024 |
+| **USMBA · Faculté Polydisciplinaire de Taza** — Licence fondamentale en sciences mathématiques et informatique, mention bien | 2023 – 2024 |
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bil3al&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
-</div>
+**Arabe** : natif &nbsp; / &nbsp; **Français** : courant &nbsp; / &nbsp; **Anglais** : intermédiaire
 
----
+## 05 / Activité GitHub
 
-## 💡 Citation
+<details>
+<summary><strong>Ouvrir les statistiques et le graphe de contributions</strong></summary>
+
+<br />
 
 <div align="center">
 
-> *"La meilleure architecture est celle qui rend l'IA accessible, fiable et utile — pas juste impressionnante."*
+<img src="https://github-readme-stats.vercel.app/api?username=Bil3al&show_icons=true&hide_border=true&bg_color=0b181e&title_color=dcfa73&icon_color=70e1e8&text_color=f1f4e9" width="49%" alt="Statistiques publiques GitHub de Bil3al, fournies par GitHub Readme Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bil3al&layout=compact&langs_count=8&hide_border=true&bg_color=0b181e&title_color=dcfa73&text_color=f1f4e9" width="49%" alt="Langages présents dans les repositories publics de Bil3al" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bil3al&hide_border=true&background=0b181e&ring=dcfa73&fire=dcfa73&currStreakLabel=70e1e8&sideLabels=f1f4e9&currStreakNum=f1f4e9&sideNums=f1f4e9&dates=a6b5bd" width="70%" alt="Séries de contributions GitHub de Bil3al" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bil3al&hide_border=true&bg_color=0b181e&color=a6b5bd&line=dcfa73&point=70e1e8&area=true" width="100%" alt="Graphe d’activité GitHub de Bil3al" />
 
 </div>
 
----
+*Ces visuels sont générés par des services externes et dépendent de leur disponibilité.*
+
+</details>
+
+<br />
+
+> « La meilleure architecture est celle qui rend l’IA accessible, fiable et utile — pas juste impressionnante. »
+
+<br />
+
+<img src="./assets/footer.svg" width="100%" alt="Une idée complexe. Une solution élégante. Construisons des systèmes intelligents, accessibles et utiles." />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+**[LinkedIn](https://www.linkedin.com/in/bilal-malih)** &nbsp; · &nbsp; **[malihbilal32@gmail.com](mailto:malihbilal32@gmail.com)** &nbsp; · &nbsp; **[GitHub](https://github.com/Bil3al)**
 
-**💜 Merci de visiter mon profil — collaborons sur quelque chose d'intelligent !**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bil3al&color=a78bfa&style=for-the-badge)
+<sub>Bilal Malih · Neural Blueprint · Des idées aux systèmes.</sub>
 
 </div>

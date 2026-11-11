@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="436" viewBox="0 0 1200 436" role="img" aria-labelledby="title desc">
+<title id="title">SciCheck AI — arXiv, recherche hybride, agents locaux et vérification des citations</title>
+<desc id="desc">Identité de Bilal Malih : développement full stack, intelligence artificielle et systèmes RAG.</desc>
+<defs>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a6b5bd" stroke-opacity=".07"/></pattern>
+ <radialGradient id="glow"><stop stop-color="#70e1e8" stop-opacity=".16"/><stop offset="1" stop-color="#70e1e8" stop-opacity="0"/></radialGradient>
+ <style>
+ text{font-family:'Segoe UI',Arial,sans-serif} .mono{font-family:Consolas,monospace;letter-spacing:2px}
+ .orbit{transform-origin:968px 244px;animation:orbit 40s linear infinite}
+ .flow{stroke-dasharray:6 10;animation:flow 4s linear infinite}
+ .pulse{animation:pulse 4s ease-in-out infinite}
+ @keyframes orbit{to{transform:rotate(360deg)}}
+ @keyframes flow{to{stroke-dashoffset:-96}}
+ @keyframes pulse{50%{opacity:.4}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+ </style>
+</defs>
+<rect width="1200" height="436" rx="18" fill="#0b181e"/>
+<rect width="1200" height="436" rx="18" fill="url(#grid)"/>
+<text x="40" y="49" font-size="14" fill="#dcfa73" font-weight="600" class="mono">02 / INTELLIGENCE IN MOTION</text><text x="40" y="98" font-size="35" fill="#f1f4e9" font-weight="700" >Connecter les données à l’intelligence.</text><text x="40" y="132" font-size="19" fill="#a6b5bd" font-weight="400" >SciCheck AI : recherche hybride, agents locaux et validation des citations.</text><rect x="40" y="179" width="259" height="145" fill="#12232b" stroke="#30434b" rx="12"/><text x="58" y="210" font-size="12" fill="#70e1e8" font-weight="400" class="mono">01 / SOURCE</text><text x="58" y="253" font-size="23" fill="#f1f4e9" font-weight="650" >Articles arXiv</text><text x="58" y="292" font-size="16" fill="#a6b5bd" font-weight="400" >Assertions scientifiques</text><path d="M299 251H327" stroke="#dcfa73" fill="none" stroke-width="2" class="flow"/><rect x="327" y="179" width="259" height="145" fill="#12232b" stroke="#30434b" rx="12"/><text x="345" y="210" font-size="12" fill="#70e1e8" font-weight="400" class="mono">02 / RETRIEVE</text><text x="345" y="253" font-size="23" fill="#f1f4e9" font-weight="650" >Recherche hybride</text><text x="345" y="292" font-size="16" fill="#a6b5bd" font-weight="400" >BM25 · Chroma · reranker</text><path d="M586 251H614" stroke="#dcfa73" fill="none" stroke-width="2" class="flow"/><rect x="614" y="179" width="259" height="145" fill="#12232b" stroke="#30434b" rx="12"/><text x="632" y="210" font-size="12" fill="#70e1e8" font-weight="400" class="mono">03 / REASON</text><text x="632" y="253" font-size="23" fill="#f1f4e9" font-weight="650" >Agents locaux</text><text x="632" y="292" font-size="16" fill="#a6b5bd" font-weight="400" >LangGraph · Ollama · NLI</text><path d="M873 251H901" stroke="#dcfa73" fill="none" stroke-width="2" class="flow"/><rect x="901" y="179" width="259" height="145" fill="#12232b" stroke="#30434b" rx="12"/><text x="919" y="210" font-size="12" fill="#70e1e8" font-weight="400" class="mono">04 / VALIDATE</text><text x="919" y="253" font-size="23" fill="#f1f4e9" font-weight="650" >Vérification</text><text x="919" y="292" font-size="16" fill="#a6b5bd" font-weight="400" >Posture · citations</text><path d="M40 361H1160" stroke="#30434b" fill="none" /><text x="40" y="399" font-size="13" fill="#dcfa73" font-weight="400" class="mono">SCICHECK AI / RAG AGENTIQUE LOCAL</text><text x="1160" y="399" font-size="12" fill="#a6b5bd" font-weight="400" class="mono" text-anchor="end">RECHERCHER → RAISONNER → VÉRIFIER</text>
+</svg>

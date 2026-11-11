@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="326" viewBox="0 0 1200 326" role="img" aria-labelledby="title desc">
+<title id="title">Major sur plus de 250 étudiants, deuxième au hackathon D.A.T.A et organisation de plus de dix événements</title>
+<desc id="desc">Identité de Bilal Malih : développement full stack, intelligence artificielle et systèmes RAG.</desc>
+<defs>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a6b5bd" stroke-opacity=".07"/></pattern>
+ <radialGradient id="glow"><stop stop-color="#70e1e8" stop-opacity=".16"/><stop offset="1" stop-color="#70e1e8" stop-opacity="0"/></radialGradient>
+ <style>
+ text{font-family:'Segoe UI',Arial,sans-serif} .mono{font-family:Consolas,monospace;letter-spacing:2px}
+ .orbit{transform-origin:968px 244px;animation:orbit 40s linear infinite}
+ .flow{stroke-dasharray:6 10;animation:flow 4s linear infinite}
+ .pulse{animation:pulse 4s ease-in-out infinite}
+ @keyframes orbit{to{transform:rotate(360deg)}}
+ @keyframes flow{to{stroke-dashoffset:-96}}
+ @keyframes pulse{50%{opacity:.4}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+ </style>
+</defs>
+<rect width="1200" height="326" rx="18" fill="#0b181e"/>
+<rect width="1200" height="326" rx="18" fill="url(#grid)"/>
+<text x="40" y="49" font-size="14" fill="#dcfa73" font-weight="600" class="mono">03 / BEYOND THE CODE</text><text x="40" y="98" font-size="35" fill="#f1f4e9" font-weight="700" >Apprendre. Construire. S’engager.</text><rect x="40" y="130" width="362" height="164" fill="#12232b" stroke="#30434b" rx="12"/><text x="60" y="186" font-size="38" fill="#dcfa73" font-weight="750" >1er / 250+</text><text x="60" y="227" font-size="12" fill="#70e1e8" font-weight="600" class="mono">MAJOR DE PROMOTION</text><text x="60" y="266" font-size="15" fill="#a6b5bd" font-weight="400" >Licence · Sciences maths &amp; informatique</text><rect x="419" y="130" width="362" height="164" fill="#12232b" stroke="#30434b" rx="12"/><text x="439" y="186" font-size="38" fill="#dcfa73" font-weight="750" >2e PLACE</text><text x="439" y="227" font-size="12" fill="#70e1e8" font-weight="600" class="mono">HACKATHON D.A.T.A / INPT</text><text x="439" y="266" font-size="15" fill="#a6b5bd" font-weight="400" >Computer vision appliquée à la santé</text><rect x="798" y="130" width="362" height="164" fill="#12232b" stroke="#30434b" rx="12"/><text x="818" y="186" font-size="38" fill="#dcfa73" font-weight="750" >10+</text><text x="818" y="227" font-size="12" fill="#70e1e8" font-weight="600" class="mono">ÉVÉNEMENTS ORGANISÉS</text><text x="818" y="266" font-size="15" fill="#a6b5bd" font-weight="400" >Avec l’ENSIAS IT Club</text>
+</svg>

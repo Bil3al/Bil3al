@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="512" viewBox="0 0 1200 512" role="img" aria-labelledby="title desc">
+<title id="title">Bilal Malih — Élève ingénieur ENSIAS, full stack et IA, recherche de stage PFE</title>
+<desc id="desc">Identité de Bilal Malih : développement full stack, intelligence artificielle et systèmes RAG.</desc>
+<defs>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a6b5bd" stroke-opacity=".07"/></pattern>
+ <radialGradient id="glow"><stop stop-color="#70e1e8" stop-opacity=".16"/><stop offset="1" stop-color="#70e1e8" stop-opacity="0"/></radialGradient>
+ <style>
+ text{font-family:'Segoe UI',Arial,sans-serif} .mono{font-family:Consolas,monospace;letter-spacing:2px}
+ .orbit{transform-origin:968px 244px;animation:orbit 40s linear infinite}
+ .flow{stroke-dasharray:6 10;animation:flow 4s linear infinite}
+ .pulse{animation:pulse 4s ease-in-out infinite}
+ @keyframes orbit{to{transform:rotate(360deg)}}
+ @keyframes flow{to{stroke-dashoffset:-96}}
+ @keyframes pulse{50%{opacity:.4}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+ </style>
+</defs>
+<rect width="1200" height="512" rx="18" fill="#0b181e"/>
+<rect width="1200" height="512" rx="18" fill="url(#grid)"/>
+<text x="48" y="49" font-size="14" fill="#dcfa73" font-weight="600" class="mono">BM / ENGINEERING NOTES</text><text x="1152" y="49" font-size="13" fill="#a6b5bd" font-weight="400" text-anchor="end" class="mono">MAROC · BIL3AL</text><path d="M48 73H1152" stroke="#30434b" fill="none" /><circle cx="968" cy="244" r="215" fill="url(#glow)"/><text x="48" y="131" font-size="15" fill="#70e1e8" font-weight="600" class="mono">ÉLÈVE INGÉNIEUR ENSIAS / SOFTWARE &amp; AI</text><text x="43" y="220" font-size="100" fill="#f1f4e9" font-weight="800" >BILAL</text><text x="43" y="315" font-size="100" fill="#dcfa73" font-weight="800" >MALIH</text><text x="50" y="361" font-size="23" fill="#f1f4e9" font-weight="400" >Du logiciel robuste à l’IA qui agit.</text><text x="50" y="396" font-size="23" fill="#a6b5bd" font-weight="400" >Full stack · RAG · Systèmes multi-agents</text><path d="M48 438H1152" stroke="#30434b" fill="none" /><text x="48" y="478" font-size="14" fill="#a6b5bd" font-weight="400" class="mono">SPRING BOOT  /  REACT  /  GENERATIVE AI</text><text x="1152" y="478" font-size="13" fill="#70e1e8" font-weight="400" text-anchor="end" class="mono">CODE → CONNECT → CREATE</text><circle cx="968" cy="244" r="94" fill="none" stroke="#30434b"/><circle cx="968" cy="244" r="146" fill="none" stroke="#30434b"/><circle cx="968" cy="244" r="190" fill="none" stroke="#30434b"/><g class="orbit"><ellipse cx="968" cy="244" rx="190" ry="65" fill="none" stroke="#70e1e8" stroke-width="1.5" transform="rotate(-35 968 244)"/><circle cx="968" cy="54" r="6" fill="#dcfa73"/><circle cx="822" cy="244" r="4" fill="#70e1e8"/></g><rect x="905" y="181" width="126" height="126" fill="#dcfa73" stroke="#dcfa73" rx="24"/><text x="968" y="262" font-size="49" fill="#0b181e" font-weight="800" text-anchor="middle">BM</text><rect x="788" y="357" width="360" height="44" fill="#12232b" stroke="#30434b" rx="12"/><circle class="pulse" cx="810" cy="379" r="4" fill="#dcfa73"/><text x="830" y="384" font-size="13" fill="#dcfa73" font-weight="400" class="mono">À LA RECHERCHE D’UN PFE</text>
+</svg>
